@@ -1,0 +1,16 @@
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\bin\Debug\net5.0\HeadFirstDesignPatterns.exe
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\bin\Debug\net5.0\HeadFirstDesignPatterns.deps.json
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\bin\Debug\net5.0\HeadFirstDesignPatterns.runtimeconfig.json
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\bin\Debug\net5.0\HeadFirstDesignPatterns.runtimeconfig.dev.json
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\bin\Debug\net5.0\HeadFirstDesignPatterns.dll
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\bin\Debug\net5.0\ref\HeadFirstDesignPatterns.dll
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\bin\Debug\net5.0\HeadFirstDesignPatterns.pdb
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\obj\Debug\net5.0\HeadFirstDesignPatterns.csproj.AssemblyReference.cache
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\obj\Debug\net5.0\HeadFirstDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\obj\Debug\net5.0\HeadFirstDesignPatterns.AssemblyInfoInputs.cache
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\obj\Debug\net5.0\HeadFirstDesignPatterns.AssemblyInfo.cs
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\obj\Debug\net5.0\HeadFirstDesignPatterns.csproj.CoreCompileInputs.cache
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\obj\Debug\net5.0\HeadFirstDesignPatterns.dll
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\obj\Debug\net5.0\ref\HeadFirstDesignPatterns.dll
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\obj\Debug\net5.0\HeadFirstDesignPatterns.pdb
+D:\GitHub\HeadFirstDesignPatterns\headfirstdesignpatterns\obj\Debug\net5.0\HeadFirstDesignPatterns.genruntimeconfig.cache
